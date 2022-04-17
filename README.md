@@ -14,7 +14,7 @@ Reviewing the data has resulted in some key insights (see below table). Namely, 
 
 The largest cost in fares belongs to "Rural" city types. Both the Average Fare per Ride and Average Fare per Driver were significantly higher than the "Suburban" and "Urban" counterparts.
 
-Fare Summary by City Type
+<ins>Fare Summary by City Type
 
 ![alt text](https://github.com/sever1sd/PyBer_Analysis/blob/e044e57f0777a404a46d2ceafba1b3b205321d54/Resources/Pyber_fare_table.png)
 
@@ -25,7 +25,7 @@ Interestingly, all three city types had a similar peak toward the end of Februar
 
 Finally, the line chart below also reflects the same patterns in the summary data above. "Urban" settings by far garner the most revenue and "Rural" settings are the most expensive and least profitable.  
 
-Total Fare by City Type
+<ins>Total Fare by City Type
 
 ![alt text](https://github.com/sever1sd/PyBer_Analysis/blob/e044e57f0777a404a46d2ceafba1b3b205321d54/Resources/Pyber_fare_summary.png)
 
